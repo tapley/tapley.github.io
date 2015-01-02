@@ -384,7 +384,7 @@ function keystroke(event, state)
             document.getElementById("start").setAttribute("style", "background-color: #0F4D92; color: #ffffff; border-color: #ffffff");
             document.getElementById("pickup").setAttribute("style", "background-color: #0F4D92; color: #ffffff; border-color: #ffffff");
             document.getElementById("dropoff").setAttribute("style", "background-color: #0F4D92; color: #ffffff; border-color: #ffffff");
-            document.getElementById("logo").setAttribute("srcset", "http://192.168.56.101/pset8/img/yale-crazy-taxi.png");
+            document.getElementById("logo").setAttribute("srcset", "/img/yale-crazy-taxi.png");
             
             // add reapply button
             $("#reapply_rejected").html("<button id=\"reapply\">Reapply</button>");
