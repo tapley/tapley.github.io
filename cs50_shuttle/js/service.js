@@ -502,7 +502,7 @@ function populate()
     
     // mark Yale admissions (pset asked for houses.js to remain unchanged)
     new google.maps.Marker({       
-        icon: "http://192.168.56.101/pset8/img/yale-admissions-icon.png",
+        icon: "/img/yale-admissions-icon.png",
         map: map,
         position: new google.maps.LatLng(41.314543, -72.923743),
         title: "Yale Undergraduate Admissions"
