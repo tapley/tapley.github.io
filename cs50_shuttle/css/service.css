@@ -1,0 +1,135 @@
+/**
+ * service.css
+ *
+ * Computer Science 50
+ * Problem Set 8
+ *
+ * Global stylesheet.
+ */
+       
+html
+{
+    height: 100%;
+}
+
+body
+{
+    font-family: sans-serif;
+    height: 100%;
+    margin: 0;
+}
+
+#announcements
+{
+    text-align: center;
+    padding: 3px;
+}
+
+#chart
+{
+    background-color: #fbc502;
+    bottom: 320px;
+    border-bottom: 1px #000000 solid;
+    border-top: 1px #000000 solid;
+    font-size: smaller;
+    height: 200px;
+    overflow-y: scroll;
+    padding-top: 5px;
+    position: absolute;
+    width: 320px;
+}
+
+#controls
+{
+    text-align: center;
+    font-size: medium;   
+}
+
+#earth
+{
+    border-right: 1px #cccccc solid;
+    height: 100%;
+    margin-right: 320px;
+}
+
+#instructions
+{
+    font-size: smaller;
+    text-align: center;
+}
+
+#left
+{
+    float: right; 
+    height: 100%;
+    width: 100%
+}
+
+#logo
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: x-large;
+    font-weight: bold;
+    margin-top: 0px;
+    text-align: center;
+    max-width: 320px;
+}
+
+#map
+{
+    bottom: 0;
+    height: 320px;
+    position: absolute;
+    width: 320px;
+}
+
+#right
+{
+    float: right;
+    height: 100%;
+    margin-right: -100%;
+    width: 320px;  
+    background-color: #fbc502;
+}
+
+#scoreboard
+{
+    margin-bottom: 5px;
+    margin-top: 5px;
+    text-align: center;
+    font-size: 45px;
+    color: #000000;
+}
+
+#reapply
+{
+    background-color: #0F4D92;
+    border-color: #ffffff;
+    color: #ffffff;
+    font-size: medium;
+    margin: 5px;
+}
+
+#pickup
+{
+    background-color: #A51C30;
+    border-color: #000000;
+    font-size: medium;
+}
+
+#dropoff
+{
+    background-color: #A51C30;
+    border-color: #000000;
+    font-size: medium;
+}
+
+#start
+{
+    background-color: #A51C30;
+    border-color: #000000;
+    font-size: medium;
+    margin: 5px;
+}
+
