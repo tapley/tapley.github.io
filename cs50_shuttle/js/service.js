@@ -384,7 +384,7 @@ function keystroke(event, state)
             document.getElementById("start").setAttribute("style", "background-color: #0F4D92; color: #ffffff; border-color: #ffffff");
             document.getElementById("pickup").setAttribute("style", "background-color: #0F4D92; color: #ffffff; border-color: #ffffff");
             document.getElementById("dropoff").setAttribute("style", "background-color: #0F4D92; color: #ffffff; border-color: #ffffff");
-            document.getElementById("logo").setAttribute("srcset", "/img/yale-crazy-taxi.png");
+            document.getElementById("logo").setAttribute("srcset", "/cs50_shuttle/img/yale-crazy-taxi.png");
             
             // add reapply button
             $("#reapply_rejected").html("<button id=\"reapply\">Reapply</button>");
@@ -502,7 +502,7 @@ function populate()
     
     // mark Yale admissions (pset asked for houses.js to remain unchanged)
     new google.maps.Marker({       
-        icon: "/img/yale-admissions-icon.png",
+        icon: "/cs50_shuttle/img/yale-admissions-icon.png",
         map: map,
         position: new google.maps.LatLng(41.314543, -72.923743),
         title: "Yale Undergraduate Admissions"
