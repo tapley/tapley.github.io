@@ -134,11 +134,13 @@ body
 
 #score
 {
-	float:right;	
+	float:right;
+	margin-right: 5px;	
 }
 
 #timer
 {
 	float:left;
+	margin-left: 5px;
 }
 
