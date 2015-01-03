@@ -97,7 +97,7 @@ body
 {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-size: 10px;
+    font-size: 15px;
     color: #000000;
 }
 
@@ -130,5 +130,15 @@ body
     border-color: #000000;
     font-size: medium;
     margin: 5px;
+}
+
+#score
+{
+	float:right;	
+}
+
+#timer
+{
+	float:left;
 }
 
