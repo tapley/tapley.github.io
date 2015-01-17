@@ -1,12 +1,10 @@
 * {
     font-family: 'Roboto', sans-serif;
-	font-size: 20px;
+	font-size: 12px;
+	
   }
 
-
-#nav_bar
-{
-	position: fixed;
-	background: #B71C1C;	
-	
+#home_name{
+	font-size: 10em;
+	margin: auto;
 }
