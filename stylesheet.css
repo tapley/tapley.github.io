@@ -6,8 +6,7 @@
 
 #home_name{
 	font-size: 7.5em;
-    width: 700px;
-    height: 100px;
+    display: inline-block;
     background-color: red;
 
     position: absolute;
