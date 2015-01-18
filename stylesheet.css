@@ -14,8 +14,8 @@
 }
 
 #name {
-	font-height: 10vh;
-	position: absolute;
+	font-size: 10vh;
+	position: relative;
 	bottom: 0;
 	font-color: #FFFFFF;
 }
