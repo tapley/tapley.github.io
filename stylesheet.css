@@ -4,11 +4,11 @@
   }
 
 #sky {
-	height: 61.8%;
+	height: 61.8vh;
 	background-color: #B0BEC5;
 }
 
 #sea {
-	height: 48.2%;
+	height: 48.2vh;
 	background-color: #263238;	
 }
