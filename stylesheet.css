@@ -4,21 +4,22 @@
   }
 
 #sky {
-	height: 61.8vh;
+	height: 50vh;
 	width: vw;
 	background-color: #B0BEC5;
 }
 
 #sea {
-	height: 38.2vh;
+	height: 50vh;
 	width: vw;
 	background-color: #263238;	
 }
 
 #name {
+	vertical-align: center;
 	position: relative;
-	top: 49.33vh;
-	font-size: 11.8vh;
+	top: 24.33vh;
+	font-size: 10vh;
 	text-align: center;
 	color: #FFFFFF;
 }
