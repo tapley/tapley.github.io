@@ -7,4 +7,8 @@
 	text-align: center;
 	font-size: 10em;
     background-color: red;
+	
+	display: inline-block;
+	vertical-align: middle;
+	float: none;
 }
