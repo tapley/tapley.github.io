@@ -12,3 +12,9 @@
 	height: 48.2vh;
 	background-color: #263238;	
 }
+
+#name {
+	font-height: 10vh;
+	position: absolute;
+	bottom: 0;
+}
