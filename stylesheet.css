@@ -16,9 +16,9 @@
 }
 
 #name {
-	font-size: 11.8 vh;
 	position: relative;
-	top: 48 vh;
+	top: 48vh;
+	font-size: 11.8vh;
 	text-align: center;
 	color: #FFFFFF;
 }
