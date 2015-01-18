@@ -16,7 +16,9 @@
 }
 
 #name {
-	font-size: 11.8vw;
+	font-size: 5vw;
+	position: relative;
+	bottom: -61.8vh;
 	text-align: center;
 	color: #FFFFFF;
 }
