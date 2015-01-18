@@ -4,13 +4,19 @@
   }
 
 #sky {
-	height: 50vh;
+	height: 49.5vh;
 	width: vw;
 	background-color: #B0BEC5;
 }
 
+#fountain {
+	height: 1vh;
+	width: vw;
+	background-color: #FF1744;
+}
+
 #sea {
-	height: 50vh;
+	height: 49.5vh;
 	width: vw;
 	background-color: #263238;	
 }
