@@ -15,10 +15,9 @@
 	background-color: #263238;	
 }
 
-#name {
-	vertical-align: center;
+#name {	
 	position: relative;
-	top: 24.33vh;
+	bottom: 50vh;
 	font-size: 10vh;
 	text-align: center;
 	color: #FFFFFF;
