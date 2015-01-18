@@ -3,9 +3,12 @@
 	font-size: 12px;	
   }
 
-#home_name{
-	text-align: center;
-	font-size: 10em;
-    background-color: red;
-	vertical-align: middle;
+#sky {
+	height: 61.8%;
+	background: #B0BEC5;
+}
+
+#sea {
+	height: 48.2%;
+	background: #263238;	
 }
