@@ -16,12 +16,11 @@
 }
 
 #name {
-	font-size: 11.8vh;
+	height: 11.8vh;
+	font-size: 11.8 vh;
 	position: relative;
 	top: 50vh;
 	text-align: center;
 	color: #FFFFFF;
 	padding: 0px;
-	margin: 0px;
-	height: auto;
 }
