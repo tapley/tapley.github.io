@@ -1,22 +1,22 @@
 * {
     font-family: 'Roboto', sans-serif;
-	font-size: 12px;	
+	font-size: 12px;
   }
 
-#sky {
+#top {
 	height: 50vh;
 	width: vw;
 	background-color: #B0BEC5;
 }
 
 
-#sea {
+#bottom {
 	height: 50vh;
 	width: vw;
-	background-color: #263238;	
+	background-color: #263238;
 }
 
-#name {	
+#name {
 	position: relative;
 	bottom: -39.33vh;
 	font-size: 10vh;
