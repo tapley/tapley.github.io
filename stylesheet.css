@@ -1,25 +1,23 @@
 * {
     font-family: 'Roboto', sans-serif;
-	font-size: 12px;
+    text-align: center;
+    color: black;
   }
 
-#top {
-	height: 50vh;
-	width: vw;
-	background-color: #B0BEC5;
-}
-
-
-#bottom {
-	height: 50vh;
-	width: vw;
-	background-color: #263238;
-}
-
 #name {
-	position: relative;
-	bottom: -39.33vh;
-	font-size: 10vh;
-	text-align: center;
-	color: #FFFFFF;
+	font-size: 120px;
+	margin-top: 300px;
+	margin-bottom: 30px;
 }
+
+.section {
+	font-size: 40px;
+	display: inline-block;
+	width: 200px;
+	margin-left: 50px;
+	margin-right: 50px;
+	border: solid;
+	border-color: black;
+	border-radius: 10px;
+}
+
