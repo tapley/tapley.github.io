@@ -1,0 +1,21 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    color: black;
+  }
+
+#titles {
+  font-size: 36px;
+  text-align: center;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
