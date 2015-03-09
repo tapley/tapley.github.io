@@ -1,0 +1,22 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: black;
+  }
+
+#name {
+	font-size: 120px;
+	margin-top: 300px;
+	margin-bottom: 30px;
+}
+
+.section {
+	font-size: 40px;
+	display: inline-block;
+	width: 200px;
+	margin-left: 50px;
+	margin-right: 50px;
+	border: solid;
+	border-color: black;
+	border-radius: 10px;
+}
