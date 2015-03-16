@@ -28,3 +28,8 @@ a:hover {
 #date{
   margin: 0px;
 }
+
+#nav_titles {
+  font-size: 60px;
+  text-align: center;
+}
