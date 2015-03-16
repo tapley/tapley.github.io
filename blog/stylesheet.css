@@ -3,11 +3,6 @@
     color: black;
   }
 
-#titles {
-  font-size: 36px;
-  text-align: center;
-}
-
 a:link {
     text-decoration: none;
 }
@@ -18,4 +13,18 @@ a:visited {
 
 a:hover {
     text-decoration: underline;
+}
+
+#blog_text {
+  width: 70vw;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+#subtitle {
+  margin: 0px;
+}
+
+#date{
+  margin: 0px;
 }

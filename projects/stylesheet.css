@@ -5,18 +5,18 @@
   }
 
 #name {
-	font-size: 120px;
-	margin-top: 300px;
-	margin-bottom: 30px;
+  font-size: 120px;
+  margin-top: 300px;
+  margin-bottom: 30px;
 }
 
 .section {
-	font-size: 40px;
-	display: inline-block;
-	width: 200px;
-	margin-left: 50px;
-	margin-right: 50px;
-	border: solid;
-	border-color: black;
-	border-radius: 10px;
+  font-size: 40px;
+  display: inline-block;
+  width: 200px;
+  margin-left: 50px;
+  margin-right: 50px;
+  border: solid;
+  border-color: black;
+  border-radius: 10px;
 }
