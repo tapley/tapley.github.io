@@ -5,31 +5,75 @@
 
 a:link {
     text-decoration: none;
+    color: black;
 }
 
 a:visited {
     text-decoration: none;
+    color: black;
 }
 
 a:hover {
-    text-decoration: underline;
+    text-decoration: none;
+    color: #ED483E;
 }
 
 #blog_text {
+  min-height: 90vh;
   width: 70vw;
+  margin-top: 2.5%;
+  margin-bottom: 2.5%;
   margin-left: 15%;
   margin-right: 15%;
+  border-top: solid;
+  border-bottom: solid;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
-#subtitle {
-  margin: 0px;
+#title{
+  color: #ED483E;
+  margin-top: 0px;
+  margin-bottom: 5px;
+  font-size: 45px;
+  font-weight: bold;
 }
 
 #date{
-  margin: 0px;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 10px;
 }
 
 #nav_titles {
   font-size: 60px;
   text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table td {
+  border: solid;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.text_wrap_left {
+  float: left;
+  margin: 10px;
+}
+
+#footer {
+  position:absolute;
+  bottom:0;
+  text-align: center;
+  margin-bottom: 10px;
+  color: #ED483E;
 }

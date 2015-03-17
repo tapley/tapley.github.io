@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<head>
+  <title>Arrays vs. Hashes</title>
+  <meta charset="UTF-8">
+  <link rel='stylesheet' type='text/css' href='http://fonts.googleapis.com/css?family=Roboto'>
+  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+</head>
+
+<main id="blog_text">
+  <p id="title">Arrays vs. Hashes</p>
+  <p id="date">Mar. 16, 2015</p>
+
+  <section>
+    <p>
+      Arrays and hashes are two basic data structures used in most coding languages, including Ruby. This post is meant to be a cursory comparison of the two types.
+    </p>
+    <table>
+      <tr class="bold">
+        <td>Type</td>
+        <td>Declaration (Empty)</td>
+        <td>Declaration (Filled)</td>
+        <td>Accessing chocolate</td>
+      </tr>
+      <tr>
+        <td class="bold">Array</td>
+        <td>my_array = []</td>
+        <td>my_array = ["chocolate", "vanilla"]</td>
+        <td>my_array[0]</td>
+      </tr>
+      <tr>
+        <td class="bold">Hash</td>
+        <td>my_hash = {}</td>
+        <td>my_hash = {best_flavor: "chocolate", worst_flavor: "vanilla"}</td>
+        <td>my_hash["best_flavor"]</td>
+      </tr>
+    </table>
+    <p>
+      An array is indexed to zero, which can be useful for moving though the array, as the index can simply be increased to traverse the data. Arrays can also be sorted, allowing for better organization of data and faster search times.
+    </p>
+    <p>
+      A hash uses a key-value system, so rather than being indexed to a number, a hash is indexed with a number of specific keys. This can be useful for dictionary-type lookups — it is far easier to look up the definition for "dog" than looking up the definition for word #8394 in the dictionary. However, the keys in a has cannot be sorted, so the efficiency we find in writing clearer input-output can be counteracted by inefficiency in organization and sorting.
+    </p>
+  </section>
+</main>
+
