@@ -19,12 +19,11 @@ a:hover {
 }
 
 #blog_text {
-  min-height: 90vh;
-  width: 70vw;
-  margin-top: 2.5%;
-  margin-bottom: 2.5%;
-  margin-left: 15%;
-  margin-right: 15%;
+  width: 900px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
   border-top: solid;
   border-bottom: solid;
   padding-top: 15px;

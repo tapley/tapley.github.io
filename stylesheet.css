@@ -5,25 +5,28 @@
   }
 
 #name {
-	font-size: 700%;
-	margin-top: 20%;
-	margin-bottom: 1.5%;
-  margin-left: 20%;
-  margin-right: 20%;
+  font-size: 100px;
+	margin-top: 300px;
+	margin-bottom: 5px;
+  margin-left: auto;
+  margin-right: auto;
   border-bottom: solid;
   border-color: #ED483E;
-  padding-bottom: 1%;
-  width: 60%;
+  padding-bottom: 5px;
+  width: 900px;
+}
+
+#section_holder {
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
 }
 
 .section {
-	font-size: 300%;
+	font-size: 50px;
 	display: inline-block;
-	width: 200px;
-	margin-left: 5%;
-	margin-right: 5%;
-  margin-top: 0px;
-  margin-bottom: 20%;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 a:link {
@@ -42,11 +45,11 @@ a:hover {
 }
 
 #construction{
-  font-size: 7vw;
+  font-size: 100px;
   margin-top: 300px;
-  margin-bottom: 15px;
-  margin-left: 15%;
-  margin-right: 15%;
-  padding-bottom: 10px;
-  width: 70%;
+  margin-bottom: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 5px;
+  width: 900px;
 }

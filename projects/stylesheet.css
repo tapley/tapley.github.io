@@ -5,11 +5,11 @@
   }
 
 #construction{
-  font-size: 7vw;
+  font-size: 100px;
   margin-top: 300px;
-  margin-bottom: 15px;
-  margin-left: 15%;
-  margin-right: 15%;
-  padding-bottom: 10px;
-  width: 70%;
+  margin-bottom: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 5px;
+  width: 900px;
 }
