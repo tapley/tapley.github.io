@@ -20,7 +20,7 @@
   margin-left: auto;
   margin-right: auto;
   width: 900px;
-  min-height: 300px;
+  min-height: 400px;
 }
 
 .section {
@@ -28,6 +28,7 @@
 	display: inline-block;
   margin-left: 50px;
   margin-right: 50px;
+  margin-bottom: 300px;
 }
 
 a:link {
