@@ -68,6 +68,8 @@ table td {
 .text_wrap_left {
   float: left;
   margin: 10px;
+  padding: 1px;
+  border: solid black;
 }
 
 #footer {
@@ -80,5 +82,5 @@ table td {
 
 .display_code {
   font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
-  padding: 10px;
+  padding: 50px;
 }
