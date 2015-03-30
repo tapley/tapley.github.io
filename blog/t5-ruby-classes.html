@@ -58,7 +58,23 @@
     </p>
 
     <p>
-      Now when we create a bull, he will have the regular attributes of a bull and a location from which he can move. Note how bull1 and bull2 have the same basic attributes (because they’re of the same class), but different locations (because they’re different objects). Also note how each attribute is readable to the program, except for @thoughts, which returns an error.
+      Now when we create a bull, he will have the regular attributes of a bull and a location from which he can move.
+    </p>
+    <p class="display_code">
+      :> bull_1 = Bull.new</br>
+      :> bull_2 = Bull.new</br></br>
+
+      bull_1 horns: 2, head: 1, legs: 4, penis: 1, tail: 1, location: 0.</br>
+      bull_2 horns: 2, head: 1, legs: 4, penis: 1, tail: 1, location: 0.</br></br>
+
+      :> bull_1.move(5)</br>
+      :> bull_2.move(10)</br></br>
+
+      bull_1 horns: 2, head: 1, legs: 4, penis: 1, tail: 1, location: 5. </br>
+      bull_2 horns: 2, head: 1, legs: 4, penis: 1, tail: 1, location: 10.
+    </p>
+    <p>
+      Note how bull1 and bull2 have the same basic attributes (because they’re of the same class), but different locations (because they’re different objects). Also note how each attribute is readable to the program, except for @thoughts, which returns an error.
     </p>
 
   </section>
